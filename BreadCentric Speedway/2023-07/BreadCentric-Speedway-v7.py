@@ -1,4 +1,4 @@
-# Same as v7
+# Same as v6
 class Reward:
     def __init__(self):
         self.prevProgress = 0.0
