@@ -1,3 +1,4 @@
+# Best Reward Function
 class Reward:
     def __init__(self):
         self.prevProgress = 0.0
